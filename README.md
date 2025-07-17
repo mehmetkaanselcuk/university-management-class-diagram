@@ -1,5 +1,6 @@
 You can find the diagram in trt.png
-Üniversite Yönetim Sistemi
+
+#Üniversite Yönetim Sistemi
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
